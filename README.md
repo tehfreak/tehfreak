@@ -1,16 +1,37 @@
-### Hi there 👋
+Привет! Я фулстек веб-разработчик со специализацией во фронтенде.
 
-<!--
-**tehfreak/tehfreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Компетенции
 
-Here are some ideas to get you started:
+Разработка требований, программная и информационная архитектура, проектирование интерфейсов и взаимодействия, разработка дизайн-систем, проектирование баз данных, обучение, консультирование.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Технологии, с которыми я работаю сейчас
+
+**typescript**, **javascript**, java
+
+**pwa**, **service workers**, **websockets**, webrtc, web bluetooth, web hid
+
+**webpack**, webpack-module-federation
+
+**nextjs**, **react**, recoil, **redux**, redux-toolkit, **redux-dynamic-modules**, **react-bem**, **material-ui**, radix-ui
+
+**nwjs**, electron
+
+**nestjs**, **fastify**, prisma, tsyringe, socket.io, **socketcluster**, grpc, graphql
+
+**mysql**, pgsql, **redis**, redis-timeseries, influxdb, **firebase**, **firestore**, elasticsearch
+
+**docker**, **gcp**, aws
+
+### Технологии, с которыми я работал ранее
+
+**coffeescript**, python, php
+
+**browserify**, **gulp**, **grunt**
+
+**angularjs**, aurelia, **jade**, **sass**, angular-material, threejs
+
+xml, xslt
+
+**expressjs**, **koa**, **sequelize**, appengine, webapp2, zend
+
+**sqlite**, mongodb, rethinkdb
